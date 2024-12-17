@@ -27,9 +27,13 @@
 #program = [4, 0]
 # Expected result: register B is set to 44354
 
+#registers=[117440,0,0]
+#program=[0,3,5,4,3,0]
+
 # challenge input
-registers=[45483412,0,0]
+#registers=[45483412,0,0]
 program=[2,4,1,3,7,5,0,3,4,1,1,5,5,5,3,0]
+registers=[236581108670061,0,0]
 
 
 combo=[0,1,2,3,registers[0],registers[1],registers[2],None]
